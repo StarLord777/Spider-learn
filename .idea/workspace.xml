@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8e1338c-82d3-4e6e-88dc-2b5767725892" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/something-learn/01-re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/something-learn/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/something-practice/01-re-practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something-learn/01-re.py" beforeDir="false" afterPath="$PROJECT_DIR$/something-learn/01-re.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something-learn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/something-learn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something-practice/01-re-practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/something-practice/01-re-practice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,60 +14,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Spider_learn$01_re.coverage" NAME="01-re Coverage Results" MODIFIED="1535446864099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
+    <SUITE FILE_PATH="coverage/Spider_learn$01_re.coverage" NAME="01-re Coverage Results" MODIFIED="1535512283216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
     <SUITE FILE_PATH="coverage/Spider_learn$01_re_practice.coverage" NAME="01-re-practice Coverage Results" MODIFIED="1535451058104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="139886625">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="12" />
-          <entry key="py" value="3" />
+          <entry key="md" value="15" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="12" />
-          <entry key="Python" value="3" />
+          <entry key="Markdown" value="15" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="1047" />
+          <entry key="py" value="1622" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="1047" />
+          <entry key="Python" value="1622" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/something-practice/01-re-practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <marker date="1535450778258" expanded="true" signature="255:468" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,8 +74,8 @@
       <list>
         <option value="$PROJECT_DIR$/re-learn/01-re.py" />
         <option value="$PROJECT_DIR$/something-learn/README.md" />
-        <option value="$PROJECT_DIR$/something-learn/01-re.py" />
         <option value="$PROJECT_DIR$/something-practice/01-re-practice.py" />
+        <option value="$PROJECT_DIR$/something-learn/01-re.py" />
       </list>
     </option>
   </component>
@@ -110,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,12 +109,18 @@
             <path>
               <item name="Spider-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spider-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="something-learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spider-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spider-learn" type="462c0819:PsiDirectoryNode" />
               <item name="something-practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01-re-practice">
+  <component name="RunManager" selected="Python.01-re">
     <configuration name="01-re-practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,8 +197,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01-re-practice" />
         <item itemvalue="Python.01-re" />
+        <item itemvalue="Python.01-re-practice" />
       </list>
     </recent_temporary>
   </component>
@@ -223,9 +217,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15616623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1621984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -235,7 +228,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="运行" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="运行" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -257,25 +250,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/something-learn/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/re-learn/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/re-learn/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -285,18 +261,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/something-learn/01-re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="71" lean-forward="true" selection-start-line="1" selection-start-column="71" selection-end-line="1" selection-end-column="71" />
+        <state relative-caret-position="1050">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/something-practice/01-re-practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <marker date="1535450778258" expanded="true" signature="255:468" ph="..." />
-          </folding>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-120">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
