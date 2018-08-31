@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8e1338c-82d3-4e6e-88dc-2b5767725892" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/something-practice/01-B站千峰视频目录Ajax.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/something-practice/01-re-practice.py" beforeDir="false" />
     </list>
@@ -22,7 +21,7 @@
     <session id="139886625">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -91,7 +90,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="680" />
     <option name="y" value="110" />
     <option name="width" value="1210" />
@@ -270,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17024128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -282,7 +281,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="运行" order="7" visible="true" weight="0.25637394" />
+      <window_info anchor="bottom" id="运行" order="7" weight="0.25637394" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
