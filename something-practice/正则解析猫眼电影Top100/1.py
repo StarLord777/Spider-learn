@@ -13,7 +13,26 @@ headers = {
 def get_onepage(url):
     response = requests.get(url,headers=headers).text
     print(response)
-    print(re.findall('<a',response,re.S))
+    index = re.findall('board-index.*?>(.*?)<',response,re.S)[1:-1]
+    name = re.findall('<p class="name.*?<a href.*?title="(.*?)" data-act',response,re.S)
+    star = re.findall('<p.*?star">(.*?)</p>',response,re.S)
+    date = re.findall('releasetime">(.*?)</p',response,re.S)
+    img = re.findall('dd>.*?<a.*?<img.*?class.*?img.*?src="(.*?)".*?</a>',response,re.S)
+    score = re.findall('score.*?integer">(.*?)<.*?fraction">(.*?)<',response,re.S)
+    info_dict = {}
+    name,star,date,img,score = list(name),list(star),list(date),list(img),list(score)
+    #star和score需要处理一下
+    stars = []
+    for i in star:
+        stars.append(i.split())
+    scores = []
+    for i,j in score:
+        scores.append(i+j)
+    for i in range(10):
+        info_dict[index[i]] = {'index':index[i],'name':name[i],'star':stars[i],'date':date[i],'img':img[i],'score':scores[i]}
+
+    for i in info_dict.items():
+        print(i)
 
 
 get_onepage(urls[0])
