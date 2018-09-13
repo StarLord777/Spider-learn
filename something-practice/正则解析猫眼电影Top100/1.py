@@ -1,4 +1,5 @@
 import requests,re
+import json
 
 base_url = 'http://maoyan.com/board/4?offset={}'
 urls = []
@@ -12,14 +13,12 @@ headers = {
 }
 def get_onepage(url):
     response = requests.get(url,headers=headers).text
-    print(response)
     index = re.findall('board-index.*?>(.*?)<',response,re.S)[1:-1]
     name = re.findall('<p class="name.*?<a href.*?title="(.*?)" data-act',response,re.S)
     star = re.findall('<p.*?star">(.*?)</p>',response,re.S)
     date = re.findall('releasetime">(.*?)</p',response,re.S)
     img = re.findall('dd>.*?<a.*?<img.*?class.*?img.*?src="(.*?)".*?</a>',response,re.S)
     score = re.findall('score.*?integer">(.*?)<.*?fraction">(.*?)<',response,re.S)
-    info_dict = {}
     name,star,date,img,score = list(name),list(star),list(date),list(img),list(score)
     #star和score需要处理一下
     stars = []
@@ -29,10 +28,20 @@ def get_onepage(url):
     for i,j in score:
         scores.append(i+j)
     for i in range(10):
-        info_dict[index[i]] = {'index':index[i],'name':name[i],'star':stars[i],'date':date[i],'img':img[i],'score':scores[i]}
-
-    for i in info_dict.items():
-        print(i)
+        all_dict[index[i]] = {'index':index[i],'name':name[i],'star':stars[i],'img':img[i],'date':date[i]}
 
 
-get_onepage(urls[0])
+
+
+all_dict = {}
+for i in urls:
+    get_onepage(i)
+
+for i in all_dict.items():
+    print(i)
+
+with open('maoyan.json','w',encoding='utf8') as f:
+    json.dump(all_dict,f)
+
+with open('maoyan.json','r',encoding='utf8') as f:
+    print(json.load(f))
