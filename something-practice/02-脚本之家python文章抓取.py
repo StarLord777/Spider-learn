@@ -1,10 +1,13 @@
-#乱码问题，暂无解决
 import requests
 from bs4 import BeautifulSoup
 
+
 url = 'https://www.jb51.net/list/list_97_1.htm'
-html = requests.get(url).text
-#print(html)
+reponse = requests.get(url)
+print(reponse.encoding)
+reponse.encoding = 'gb2312'
+print(dir(reponse))
+html = reponse.text
 soup = BeautifulSoup(html,'lxml')
 txt = soup.select('div.artlist dl dt')
 print(txt)
