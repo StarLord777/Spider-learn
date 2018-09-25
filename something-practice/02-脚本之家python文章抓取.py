@@ -3,14 +3,14 @@ from bs4 import BeautifulSoup
 
 
 url = 'https://www.jb51.net/list/list_97_1.htm'
-reponse = requests.get(url)
-print(reponse.encoding)
-reponse.encoding = 'gb2312'
-print(dir(reponse))
-html = reponse.text
+response = requests.get(url)
+#print(dir(response))
+#print(response.encoding)
+response.encoding = 'gb2312'
+html = response.text
 soup = BeautifulSoup(html,'lxml')
 txt = soup.select('div.artlist dl dt')
-print(txt)
+#print(txt)
 href_list = []
 base_url = 'https://www.jb51.net'
 

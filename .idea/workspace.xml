@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8e1338c-82d3-4e6e-88dc-2b5767725892" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/1.基本使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/10.Cookies操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/11.选项卡管理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/12.异常处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/2.查找单个元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/3.元素交互动作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/4.交互动作链.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/5.执行JavaScript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/6.获取元素信息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/7.对Frame框架的处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/8.等待.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/something-learn/selenium库/9.前进后退.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something-learn/python发送邮件，垃圾箱版.py" beforeDir="false" afterPath="$PROJECT_DIR$/something-learn/python发送邮件正式版.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something-learn/python发送邮件正式版.py" beforeDir="false" afterPath="$PROJECT_DIR$/something-learn/python发送邮件正式版.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something-learn/selenium库/基本使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/something-practice/02-脚本之家python文章抓取.py" beforeDir="false" afterPath="$PROJECT_DIR$/something-practice/02-脚本之家python文章抓取.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,37 +27,49 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Spider_learn$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1537325731840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$3_.coverage" NAME="3.元素交互动作 Coverage Results" MODIFIED="1537846529692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$7_Frame.coverage" NAME="7.对Frame框架的处理 Coverage Results" MODIFIED="1537871055134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
     <SUITE FILE_PATH="coverage/Spider_learn$do_blog.coverage" NAME="do_blog Coverage Results" MODIFIED="1536717727030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice/八月初写的单线程版CSDN刷访问量爬虫" />
-    <SUITE FILE_PATH="coverage/Spider_learn$iptest.coverage" NAME="iptest Coverage Results" MODIFIED="1536720545208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
-    <SUITE FILE_PATH="coverage/Spider_learn$BeautifulSoup2.coverage" NAME="BeautifulSoup2 Coverage Results" MODIFIED="1536805484697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
     <SUITE FILE_PATH="coverage/Spider_learn$some_exercises.coverage" NAME="some_exercises Coverage Results" MODIFIED="1536744271378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/正则表达式" />
     <SUITE FILE_PATH="coverage/Spider_learn$01_.coverage" NAME="01-哔哩哔哩 Coverage Results" MODIFIED="1535550379867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
-    <SUITE FILE_PATH="coverage/Spider_learn$01_BAjax.coverage" NAME="01-B站千峰视频目录Ajax Coverage Results" MODIFIED="1535724919185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
-    <SUITE FILE_PATH="coverage/Spider_learn$BeautifulSoup_findall.coverage" NAME="BeautifulSoup-findall Coverage Results" MODIFIED="1536809606662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
-    <SUITE FILE_PATH="coverage/Spider_learn$01_re.coverage" NAME="01-re Coverage Results" MODIFIED="1535512283216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
+    <SUITE FILE_PATH="coverage/Spider_learn$5_JavaScript.coverage" NAME="5.执行JavaScript Coverage Results" MODIFIED="1537869909246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
     <SUITE FILE_PATH="coverage/Spider_learn$01_re_practice.coverage" NAME="01-re-practice Coverage Results" MODIFIED="1535451058104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
-    <SUITE FILE_PATH="coverage/Spider_learn$python.coverage" NAME="python发送邮件正式版 Coverage Results" MODIFIED="1537760901388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
+    <SUITE FILE_PATH="coverage/Spider_learn$python.coverage" NAME="python发送邮件正式版 Coverage Results" MODIFIED="1537796781759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
+    <SUITE FILE_PATH="coverage/Spider_learn$9_.coverage" NAME="9.前进后退 Coverage Results" MODIFIED="1537872787036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$.coverage" NAME="基本使用 Coverage Results" MODIFIED="1537844922663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$02_python.coverage" NAME="02-脚本之家python文章抓取 Coverage Results" MODIFIED="1537842737323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
+    <SUITE FILE_PATH="coverage/Spider_learn$pyquery1.coverage" NAME="pyquery1 Coverage Results" MODIFIED="1536838418015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/pyquery" />
+    <SUITE FILE_PATH="coverage/Spider_learn$2_.coverage" NAME="2.查找单个元素 Coverage Results" MODIFIED="1537845847785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$1__2_.coverage" NAME="1 (2) Coverage Results" MODIFIED="1537842557890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_learn$iptest.coverage" NAME="iptest Coverage Results" MODIFIED="1536720545208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
+    <SUITE FILE_PATH="coverage/Spider_learn$BeautifulSoup2.coverage" NAME="BeautifulSoup2 Coverage Results" MODIFIED="1536805484697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
+    <SUITE FILE_PATH="coverage/Spider_learn$4_.coverage" NAME="4.交互动作链 Coverage Results" MODIFIED="1537869359029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$11_.coverage" NAME="11.选项卡管理 Coverage Results" MODIFIED="1537873207709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$01_BAjax.coverage" NAME="01-B站千峰视频目录Ajax Coverage Results" MODIFIED="1535724919185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
+    <SUITE FILE_PATH="coverage/Spider_learn$6_.coverage" NAME="6.获取元素信息 Coverage Results" MODIFIED="1537870519755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$BeautifulSoup_findall.coverage" NAME="BeautifulSoup-findall Coverage Results" MODIFIED="1536809606662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
+    <SUITE FILE_PATH="coverage/Spider_learn$10_Cookies.coverage" NAME="10.Cookies操作 Coverage Results" MODIFIED="1537872893986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$01_re.coverage" NAME="01-re Coverage Results" MODIFIED="1535512283216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
     <SUITE FILE_PATH="coverage/Spider_learn$exercise2.coverage" NAME="exercise2豆瓣读书 Coverage Results" MODIFIED="1536744677805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/正则表达式" />
     <SUITE FILE_PATH="coverage/Spider_learn$ping.coverage" NAME="ping Coverage Results" MODIFIED="1536742179228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
     <SUITE FILE_PATH="coverage/Spider_learn$BeautifulSoup.coverage" NAME="BeautifulSoup Coverage Results" MODIFIED="1536803740166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn" />
     <SUITE FILE_PATH="coverage/Spider_learn$1.coverage" NAME="1 Coverage Results" MODIFIED="1536890075993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice/Ajax请求抓取今日头条街拍" />
-    <SUITE FILE_PATH="coverage/Spider_learn$.coverage" NAME="基本使用 Coverage Results" MODIFIED="1537325754591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
-    <SUITE FILE_PATH="coverage/Spider_learn$02_python.coverage" NAME="02-脚本之家python文章抓取 Coverage Results" MODIFIED="1537317558528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-practice" />
-    <SUITE FILE_PATH="coverage/Spider_learn$pyquery1.coverage" NAME="pyquery1 Coverage Results" MODIFIED="1536838418015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/pyquery" />
+    <SUITE FILE_PATH="coverage/Spider_learn$8_.coverage" NAME="8.等待 Coverage Results" MODIFIED="1537872122639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
+    <SUITE FILE_PATH="coverage/Spider_learn$12_.coverage" NAME="12.异常处理 Coverage Results" MODIFIED="1537873433882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/something-learn/selenium库" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="139886625">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="37" />
           <entry key="project.open.time.0" value="16" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,7 +77,7 @@
           <entry key="ipynb" value="1" />
           <entry key="json" value="6" />
           <entry key="md" value="21" />
-          <entry key="py" value="55" />
+          <entry key="py" value="73" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
@@ -61,40 +87,27 @@
           <entry key="JSON" value="6" />
           <entry key="Markdown" value="16" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="55" />
+          <entry key="Python" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="26" />
+          <entry key="dummy" value="28" />
           <entry key="md" value="2" />
-          <entry key="py" value="9048" />
+          <entry key="py" value="10037" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="9048" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="10037" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/something-learn/python发送邮件正式版.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,10 +147,23 @@
         <option value="$PROJECT_DIR$/something-learn/pyquery/pyquery1.py" />
         <option value="$PROJECT_DIR$/something-learn/pyquery/伪类选择器.py" />
         <option value="$PROJECT_DIR$/something-practice/Ajax请求抓取今日头条街拍/1.py" />
-        <option value="$PROJECT_DIR$/something-practice/02-脚本之家python文章抓取.py" />
         <option value="$PROJECT_DIR$/something-learn/selenium库/1.py" />
         <option value="$PROJECT_DIR$/something-learn/python发送邮件，垃圾箱版.py" />
         <option value="$PROJECT_DIR$/something-learn/python发送邮件正式版.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/something-practice/02-脚本之家python文章抓取.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/基本使用.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/2.查找单个元素.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/3.元素交互动作.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/4.交互动作链.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/5.执行JavaScript.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/6.获取元素信息.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/7.对Frame框架的处理.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/8.等待.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/9.前进后退.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/10.Cookies操作.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/11.选项卡管理.py" />
+        <option value="$PROJECT_DIR$/something-learn/selenium库/12.异常处理.py" />
       </list>
     </option>
   </component>
@@ -161,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,6 +214,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,30 +247,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.python发送邮件正式版">
-    <configuration name="02-脚本之家python文章抓取" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider-learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/something-practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-practice/02-脚本之家python文章抓取.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12.异常处理">
+    <configuration name="10.Cookies操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +261,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\1\Spider-learn\something-learn\selenium库\基本使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-learn/selenium库/10.Cookies操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,29 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider-learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/something-practice/Ajax请求抓取今日头条街拍" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-practice/Ajax请求抓取今日头条街拍/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11.选项卡管理" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,7 +283,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-learn/selenium库/基本使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-learn/selenium库/11.选项卡管理.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +292,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python发送邮件，垃圾箱版" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/something-learn/selenium库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-learn/selenium库/12.异常处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8.等待" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/something-learn/selenium库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-learn/selenium库/8.等待.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9.前进后退" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/something-learn/selenium库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-learn/selenium库/9.前进后退.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python发送邮件正式版" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,7 +371,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\1\Spider-learn\something-learn\python发送邮件正式版.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something-learn/python发送邮件正式版.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,19 +403,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1" />
-      <item itemvalue="Python.1 (1)" />
-      <item itemvalue="Python.02-脚本之家python文章抓取" />
-      <item itemvalue="Python.python发送邮件，垃圾箱版" />
-      <item itemvalue="Python.python发送邮件正式版" />
+      <item itemvalue="Python.8.等待" />
+      <item itemvalue="Python.9.前进后退" />
+      <item itemvalue="Python.10.Cookies操作" />
+      <item itemvalue="Python.11.选项卡管理" />
+      <item itemvalue="Python.12.异常处理" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python发送邮件正式版" />
-        <item itemvalue="Python.python发送邮件，垃圾箱版" />
-        <item itemvalue="Python.1 (1)" />
-        <item itemvalue="Python.02-脚本之家python文章抓取" />
-        <item itemvalue="Python.1" />
+        <item itemvalue="Python.12.异常处理" />
+        <item itemvalue="Python.11.选项卡管理" />
+        <item itemvalue="Python.10.Cookies操作" />
+        <item itemvalue="Python.9.前进后退" />
+        <item itemvalue="Python.8.等待" />
       </list>
     </recent_temporary>
   </component>
@@ -387,12 +435,12 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21648793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22989276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44617563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43342775" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -558,17 +606,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/something-learn/正则表达式/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-150">
             <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -612,24 +660,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/something-practice/02-脚本之家python文章抓取.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/基本使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py" />
     <entry file="file://$PROJECT_DIR$/something-learn/python发送邮件正式版.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="26">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/3.元素交互动作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/1.基本使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/4.交互动作链.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="24" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/2.查找单个元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/5.执行JavaScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/6.获取元素信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/7.对Frame框架的处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#1#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/8.等待.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#4#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/9.前进后退.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/10.Cookies操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/11.选项卡管理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something-learn/selenium库/12.异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
