@@ -20,8 +20,8 @@ def sendMailToOne():
         print('发送成功')
         smtpobj.quit()
         smtpobj.close()
-    except:
-        print('出错了')
+    except Exception as e:
+        print('{}-----出错了'.format(e))
 
 
 if __name__ == '__main__':
